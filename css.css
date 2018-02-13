@@ -1,0 +1,60 @@
+
+body {
+background-color : #FFFFFF; 
+
+}
+.img {
+	margin-top :30;
+	margin-left:390; /*отступ всего класса body = 310px*/
+	
+	
+}
+.text-adress h3 {
+	
+	
+	display:inline-block;
+	padding : 0 65
+	
+}
+.text-adress {
+	margin-left :820;
+	margin-top: -60;
+}
+
+
+ul {
+  list-style: none; 
+ 
+  padding-left: 336; 
+  margin-top:50; 
+  background:#34D0B6; 
+  height: 50px; 
+}
+a {
+  text-decoration: ; 
+  background:#34D0B6; 
+  color:#fff;
+  padding:0px 40px; 
+  font-family: MullerBold; 
+  line-height:50px; 
+  display: block; 
+  font-size: 120%;
+   font-weight: bold;
+ 
+  -moz-transition: all 0.4s 0.01s ease; 
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+
+li {
+  float:left; 
+}
+
+.menu-block2{
+	background-color: #006957;
+    height :  50;
+	width :  292;
+	margin-top: -66px;
+	margin-left : 1238;
+	
+}
